@@ -11,7 +11,8 @@ const SmartString = (stringValue, options = {}) => {
         return `${firstWord} ${stringArray.slice(1).join(' ')}.`;
     };
     if (__string.length <= 0) {
-        throw Error("stringValue cannot be empty");
+        return __string;
+        // throw Error("stringValue cannot be empty")
     }
     const hasQuantity = exists(quantity);
     const isPlural = hasQuantity && quantity > 1;
