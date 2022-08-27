@@ -1,6 +1,6 @@
 {
   "name": "@tomassotech/simplesmartstring",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides automatic formatting for strings intended to provide better UI text without the extra work",
   "main": "index.js",
   "scripts": {
