@@ -1,0 +1,15 @@
+{
+  "name": "@tomassotech/simplesmartstring",
+  "version": "1.0.0",
+  "description": "Provides automatic formatting for strings intended to provide better UI text without the extra work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Tomasso <eric@tomasso.tech>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etroimcasso/SimpleKeyValueStore"
+  }
+}
